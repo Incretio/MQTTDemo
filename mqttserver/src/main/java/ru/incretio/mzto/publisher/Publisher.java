@@ -53,7 +53,7 @@ class Publisher {
             try {
                 watcherDirectory.start(directory);
             } catch (Exception e) {
-                e.printStackTrace();
+                System.out.println(e);
             }
         });
         watcherThread.start();
