@@ -9,6 +9,6 @@
 
 Для запуска демонстрации необходимо:
 - настроить файлы конфигураций out/server.conf и out/client.conf
-- запустить runClient.cmd и runServer
+- запустить runClient.cmd и runServer.cmd
 - изменить содержимое каталога, за которым наблюдает модуль сервера
 
